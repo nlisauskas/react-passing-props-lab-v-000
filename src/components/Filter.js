@@ -14,5 +14,5 @@ const Filter = ({filters, handleChange}) =>
         
       }
   }
-  
+
 export default Filter;
